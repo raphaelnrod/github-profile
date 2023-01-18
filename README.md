@@ -18,7 +18,7 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
 
 ### Redes Sociais:
 
-  <a href="https://www.linkedin.com/in/jacksonhmt" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/raphaelnrod" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
