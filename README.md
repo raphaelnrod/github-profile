@@ -60,7 +60,7 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelnrod&langs_count=8&layout=compact&theme=dracula"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raphaelnrod&langs_count=8&layout=compact&theme=dracula"
     />
   </a>
   
@@ -68,7 +68,7 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=raphaelnrod&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=raphaelnrod&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
 
