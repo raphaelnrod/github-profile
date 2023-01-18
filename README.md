@@ -1,20 +1,16 @@
 ### Olá Terráqueos 👋
 
-Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero hoje um resolvedor de problemas. Gosto de desafios porque me motivam a superar tecnicamente a cada tarefa concluída. Sou bastante criativo quando o assunto é <em>front-end</em>. 
-
-Já trabalhei com muita gente capacitada nesses anos de TI, tive um mentor de Java por 1 ano, onde aprendi e desenvolvi um conhecimento pleno em Java e Typescript.
+Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero hoje um resolvedor de problemas. Gosto de desafios porque me motivam a superar tecnicamente a cada tarefa atribuída. Sou bastante criativo quando o assunto é <em>front-end</em>. Já trabalhei com muita gente capacitada nesses anos de TI, tive um grande mentor de Java por 1 ano, onde aprendi e desenvolvi um conhecimento pleno em Java e Typescript.
 
 - Participei de projetos audaciosos como um leitor de OCR para coletar dados de campos específicos de Notas Fiscais para uma empresa ligada a Microsoft, que precisava automatizar o processo de coletar dados de centenas de notas fiscais diariamente recebidas em seu email corporativo.
 - Trabalhei em um projeto de migração de tecnologias, onde, foi necessário recriar um sistema em Java 6/Vraptor e AngularJS (Angular 1) para um sistema com tecnologias mais atuais em Java 8/Spring Boot e Angular 10+. Foi uma oportunidade onde cresci muito tecnicamente nessas tecnologias.
 - Enquanto estagiário, fui encarregado de criar sozinho(claro, com revisões e correções do meu mentor) um app em Ionic que tinha como papel, na empresa que vende sistemas para postos de combustíveis, servir como um terminal de vendas na pista onde os frentistas poderiam acessar a venda da bomba X, acrescentar produtos do posto (óleos, aditivos, produtos de limpeza, produtos da loja de conveniência), escolher forma de pagamento e finalizar a venda diretamente pelo celular, sem a necessidade de terminais fixos.
 
 </br>
-</br>
 
 <img align="right" alt="GIF" src="img/meme.gif" width="340" height="220"/>
 
 ### Sobre:
-
 - 💻 Desenvolvedor FullStack
 - 🎓 Engenheiro de Computação
 - 🎉 26 Anos
