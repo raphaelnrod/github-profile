@@ -3,6 +3,7 @@
 Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero hoje um resolvedor de problemas. Gosto de desafios porque me motivam a superar tecnicamente a cada tarefa atribuída. Sou bastante criativo quando o assunto é <em>front-end</em>. Já trabalhei com muita gente capacitada nesses anos de TI, tive um grande mentor de Java por 1 ano, onde aprendi e desenvolvi um pleno conhecimento em Java e Typescript.
 
 - Participei de projetos audaciosos como um leitor de OCR para coletar dados de campos específicos de Notas Fiscais para uma empresa ligada a Microsoft, que precisava automatizar o processo de coletar dados de centenas de notas fiscais diariamente recebidas em seu email corporativo.
+- Desenvolvi soluções para a seguradora do Banco do Brasil que possuía 'Workers' que não eram escaláveis e devido ao grande volume de dados estavam sendo derrubados. Atuei então em soluções arquiteturais mais robustas e desenvolvemos funções AWS Lambda para cada Worker, tornando os processos escaláveis e com uma arquitetura mais robusta.
 - Trabalhei em um projeto de migração de tecnologias, onde, foi necessário recriar um sistema em Java 6/Vraptor e AngularJS (Angular 1) para um sistema com tecnologias mais atuais em Java 8/Spring Boot e Angular 10+. Foi uma oportunidade onde cresci muito tecnicamente nessas tecnologias.
 - Enquanto estagiário, fui encarregado de criar sozinho(claro, com revisões e correções do meu mentor) um app em Ionic que tinha como papel, na empresa que vende sistemas para postos de combustíveis, servir como um terminal de vendas na pista onde os frentistas poderiam acessar a venda da bomba X, acrescentar produtos do posto (óleos, aditivos, produtos de limpeza, produtos da loja de conveniência), escolher forma de pagamento e finalizar a venda diretamente pelo celular, sem a necessidade de terminais fixos.
 
@@ -13,7 +14,7 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
 ### Sobre:
 - 💻 Desenvolvedor FullStack
 - 🎓 Engenheiro de Computação
-- 🎉 26 Anos
+- 🎉 27 Anos
 - 📌 Goiás/Brasil
 
 ### Redes Sociais:
@@ -37,6 +38,9 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![TYPSCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![PYTHON](https://img.shields.io/badge/Python-070a61?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-c46f0e?style=for-the-badge&logo=amazon&logoColor=white)&nbsp;
+![AWSLambda](https://img.shields.io/badge/AWS%20Lambda-de3c10?style=for-the-badge&logo=awslambda&logoColor=white)&nbsp;
 ![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![ANGULARJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
