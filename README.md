@@ -1,4 +1,4 @@
-### Olá Terráqueos 👋
+### Olá 👋
 
 Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero hoje um resolvedor de problemas. Gosto de desafios porque me motivam a superar tecnicamente a cada tarefa atribuída. Sou bastante criativo quando o assunto é <em>front-end</em>. Já trabalhei com muita gente capacitada nesses anos de TI, tive um grande mentor de Java por 1 ano, onde aprendi e desenvolvi um pleno conhecimento em Java e Typescript.
 
