@@ -1,9 +1,10 @@
 ### Olá 👋
 
-Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero hoje um resolvedor de problemas. Gosto de desafios porque me motivam a superar tecnicamente a cada tarefa atribuída. Sou bastante criativo quando o assunto é <em>front-end</em>. Já trabalhei com muita gente capacitada nesses anos de TI, tive um grande mentor de Java por 1 ano, onde aprendi e desenvolvi um pleno conhecimento em Java e Typescript.
+Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como desenvolvedor desde Nov/2018, onde iniciei um estágio na área, atuando com Java/SpringBoot, Typescript/Angular em sistemas web e Ionic para mobile. Me considero um resolvedor de problemas. Gosto de desafios porque me motivam a me superar tecnicamente a cada tarefa atribuída. Sou bastante criativo quando o assunto é <em>front-end</em>. Já trabalhei com muita gente capacitada nesses anos de TI e tive um grande mentor de Java por 1 ano, onde aprendi e desenvolvi um pleno conhecimento em Java e Typescript.
 
-- Participei de projetos audaciosos, como um leitor de OCR para coletar dados de campos específicos de Notas Fiscais para uma empresa ligada a Microsoft, que precisava automatizar o processo de coletar dados de centenas de notas fiscais diariamente recebidas em seu email corporativo.
-- Desenvolvi soluções para a seguradora do Banco do Brasil que possuía 'Workers' que não eram escaláveis e devido ao grande volume de dados estavam sendo derrubados. Partimos então para uma solução em Cloud e desenvolvemos funções AWS Lambda para cada Worker, tornando os processos escaláveis e com uma arquitetura mais robusta.
+- Desenvolvi soluções em OCR para terminais portuários de Salvador e Santos, onde era possível com um app mobile (Flutter) fazer a leitura de lacres de conteineres, leitura de informações dos contêineres e placas de veículos, trazendo uma melhoria em suas operações no sentido de mitigar erros, governança, rastreabilidade de informações e auditoria de processos.
+- Participei de projetos audaciosos, como um leitor de OCR para coletar dados de campos específicos de Notas Fiscais para uma empresa que precisava automatizar o processo de coletar dados de centenas de notas fiscais diariamente recebidas em seu email corporativo.
+- Desenvolvi soluções para a seguradora do Banco do Brasil que possuía micro-serviços que não eram escaláveis e devido ao grande volume de dados estavam sendo derrubado com certa frequencia. Desenvolvi então para uma solução em Cloud utilizando funções AWS Lambda para cada Worker, tornando os processos escaláveis e com uma arquitetura mais robusta.
 - Trabalhei em um projeto de migração de tecnologias, onde, foi necessário recriar um sistema em Java 6/Vraptor e AngularJS (Angular 1) para um sistema com tecnologias mais atuais em Java 11/Spring Boot e Angular 10+. Foi uma oportunidade onde cresci muito tecnicamente nessas tecnologias.
 - Enquanto estagiário, fui encarregado de criar sozinho(claro, com revisões e correções do meu mentor) um app em Ionic que tinha como papel (sistemas para postos de combustíveis), servir como um terminal de vendas na pista onde os frentistas poderiam acessar a venda da bomba X, acrescentar produtos do posto (óleos, aditivos, produtos de limpeza, produtos da loja de conveniência), escolher forma de pagamento e finalizar a venda diretamente pelo celular, sem a necessidade de terminais fixos.
 - [PROJETO PESSOAL] Desenvolvi um sistema completo de gestão e estoque para estabelecimentos de venda de peças automotivas, com simulação de estoque em conjunto com MercadoLivre e auditoria de processos dentro do sistema (cada ação no sistema é gravado e pode ser auditado pelos proprietários/gerentes do negócio). Além de um demonstrativo de resultados em forma de relatórios e/ou gráficos. OBS.: Este projeto está privado neste perfil do GitHub, mas caso tenha interesse me manda uma mensagem que disponibilizo acesso caso você seja um estudante querendo aprender sobre Java/Angular ou um contratante interessado em analisar o meu projeto.
@@ -15,7 +16,7 @@ Eu sou Raphael, formado em Engenharia de Computação em 2019. Trabalho como des
 ### Sobre:
 - 💻 Desenvolvedor FullStack
 - 🎓 Engenheiro de Computação
-- 🎉 27 Anos
+- 🎉 29 Anos
 - 📌 Goiás/Brasil
 
 ### Redes Sociais:
